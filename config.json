@@ -1,0 +1,10 @@
+{
+    "TOKEN": "ODgzNjI2ODgzNjE3NTU0NDM0.YTMrqg.J6jrYKa8Fd0k9NlzvtZGKeqaMQU",
+    "YOUTUBE_API_KEY": "AIzaSyCTdQKnF42FPDcVdeU6CvtbiV8n1Bb6daE",
+    "MAX_PLAYLIST_SIZE": 10,
+    "PREFIX": "tr!",
+    "PRUNING": false,
+    "LOCALE": "es",
+    "STAY_TIME": 30,
+    "DEFAULT_VOLUME": 100
+  }

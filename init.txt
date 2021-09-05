@@ -1,0 +1,6 @@
+1 vez:
+node index.js
+npm i nodemon -D
+
+todas la veces:
+npx nodemon (archivo js)
