@@ -198,6 +198,8 @@ client.on("message", msg => {
       
 });
 
+const aafk = require('./afk.json')
+
 client.on("message", msg => {
   if (typeof aafk[msg.author.id] != 'undefined') {
       if(msg.author.id == aafk[msg.author.id].uid){
