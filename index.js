@@ -198,6 +198,8 @@ client.on("message", msg => {
       
 });
 
+
+const fs = require('fs')
 const aafk = require('./afk.json')
 
 client.on("message", msg => {
